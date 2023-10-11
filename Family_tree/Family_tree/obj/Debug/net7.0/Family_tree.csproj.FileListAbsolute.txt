@@ -1,0 +1,15 @@
+/Users/danilausakov/Documents/source/C#/Family_tree/Family_tree/obj/Debug/net7.0/Family_tree.csproj.AssemblyReference.cache
+/Users/danilausakov/Documents/source/C#/Family_tree/Family_tree/obj/Debug/net7.0/Family_tree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danilausakov/Documents/source/C#/Family_tree/Family_tree/obj/Debug/net7.0/Family_tree.AssemblyInfoInputs.cache
+/Users/danilausakov/Documents/source/C#/Family_tree/Family_tree/obj/Debug/net7.0/Family_tree.AssemblyInfo.cs
+/Users/danilausakov/Documents/source/C#/Family_tree/Family_tree/obj/Debug/net7.0/Family_tree.csproj.CoreCompileInputs.cache
+/Users/danilausakov/Documents/source/C#/Family_tree/Family_tree/bin/Debug/net7.0/Family_tree
+/Users/danilausakov/Documents/source/C#/Family_tree/Family_tree/bin/Debug/net7.0/Family_tree.deps.json
+/Users/danilausakov/Documents/source/C#/Family_tree/Family_tree/bin/Debug/net7.0/Family_tree.runtimeconfig.json
+/Users/danilausakov/Documents/source/C#/Family_tree/Family_tree/bin/Debug/net7.0/Family_tree.dll
+/Users/danilausakov/Documents/source/C#/Family_tree/Family_tree/bin/Debug/net7.0/Family_tree.pdb
+/Users/danilausakov/Documents/source/C#/Family_tree/Family_tree/obj/Debug/net7.0/Family_tree.dll
+/Users/danilausakov/Documents/source/C#/Family_tree/Family_tree/obj/Debug/net7.0/refint/Family_tree.dll
+/Users/danilausakov/Documents/source/C#/Family_tree/Family_tree/obj/Debug/net7.0/Family_tree.pdb
+/Users/danilausakov/Documents/source/C#/Family_tree/Family_tree/obj/Debug/net7.0/Family_tree.genruntimeconfig.cache
+/Users/danilausakov/Documents/source/C#/Family_tree/Family_tree/obj/Debug/net7.0/ref/Family_tree.dll
